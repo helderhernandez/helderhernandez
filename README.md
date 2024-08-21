@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" />
 
-# Project portfolio
+<!-- # Project portfolio
 [🚀 Billing System for HSD Enterprise](https://hsd-app-b9e6h4fhaeedcda7.eastus-01.azurewebsites.net)
 
 ### Description
@@ -14,7 +14,7 @@ System for the management of medical supplies, it has the following modules: use
 
 ### Credentials for test
 User: guest.user
-Password: 1234.ABcd
+Password: 1234.ABcd -->
 
 # My stack technologies
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
