@@ -1,20 +1,35 @@
 # About me 👋
-- 🔭 I’m currently working on HS Distribuciones
-- 🌱 I am currently studying the pre-specialty at UTEC and I will soon begin to learn English
-- 📫 How to reach me: [Linkedin](https://sv.linkedin.com/in/helder-hern%C3%A1ndez-4b70a5178)
-- ⚡ Fun fact: I like playing the guitar
+🌄 I live in El Salvador
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" />
+👨‍🎓 I am studying computer systems engineering at UTEC university
 
-<!-- # Project portfolio
-[🚀 Billing System for HSD Enterprise](https://hsd-app-b9e6h4fhaeedcda7.eastus-01.azurewebsites.net)
+🚀 I have been programming since 2018 and have worked mostly with relational databases and web applications (API´s and SPA)
 
-### Description
-System for the management of medical supplies, it has the following modules: users, products and inventory management, suppliers, clients, invoices, accounts receivable and reporting
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="300" />
 
-### Credentials for test
-User: guest.user
-Password: 1234.ABcd -->
+# Project portfolio
+
+### ⚡ HSD System
+
+**Demo**
+
+|Link  |User  |Password  |
+|---------|---------|---------|
+|[HSD System](https://hsd-app-b9e6h4fhaeedcda7.eastus-01.azurewebsites.net/)     | guest.user        | 1234.ABcd        |
+
+
+**Description**
+
+Multi-user web system developed for the management of medical supplies.
+
+It has the following modules:
+- Users and session management
+- Catalogs of Clients, Employees and Suppliers
+- Products and inventory management
+- Purchase and Sales Management
+- Tax document management (various types of invoices)
+- Accounting management of CXC (accounts receivable) and calculation of product costs
+- Reporting
 
 # My stack technologies
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -32,6 +47,5 @@ Password: 1234.ABcd -->
 
 # My statistics
 [![Helder´s GitHub stats](https://github-readme-stats.vercel.app/api?username=helderhernandez&show_icons=true&count_private=true)](https://github.com/helderhernandez)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderhernandez&layout=compact)](https://github.com/helderhernandez)
