@@ -5,7 +5,7 @@
 
 🌄 I live in El Salvador
 
-🤝 You can contact me on [Linkedin](https://sv.linkedin.com/in/helder-hern%C3%A1ndez-4b70a5178)
+🤝 You can contact me on [LinkedIn](https://www.linkedin.com/in/helderhernandez)
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="300" />
 
