@@ -1,37 +1,9 @@
 # About me 👋
 🚀 I have been programming since 2018 and have worked mostly with relational databases and web applications (API´s and SPA)
 
-👨‍🎓 I am studying computer systems engineering at UTEC university
-
 🌄 I live in El Salvador
 
-🤝 You can contact me on [LinkedIn](https://www.linkedin.com/in/helderhernandez)
-
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="300" />
-
-# Project portfolio
-
-### ⚡ HSD System
-
-**Demo**
-
-|Link  |User  |Password  |
-|---------|---------|---------|
-|[HSD System](https://hsd-app-b9e6h4fhaeedcda7.eastus-01.azurewebsites.net/)     | guest.user        | 1234.ABcd        |
-
-
-**Description**
-
-Multi-user web system developed for the management of medical supplies.
-
-It has the following modules:
-- Users and session management
-- Catalogs of Clients, Employees and Suppliers
-- Products and inventory management
-- Purchase and Sales Management
-- Tax document management (various types of invoices)
-- Accounting management of CXC (accounts receivable) and calculation of product costs
-- Reporting
 
 # My stack technologies
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
